@@ -1,9 +1,9 @@
-# Package name
+# Intellectronics
 <pre>
-  pip install package-name
+  pip install intellectronics
 </pre>
 Then:
 ```Python
   # Python
-  import package_name
+  import intellectronics
 ```
