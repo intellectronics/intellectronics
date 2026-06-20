@@ -27,5 +27,5 @@ dependencies = [
 intellectronics = "intellectronics.cli:run"
 
 [project.urls]
-"Homepage" = "https://github.com/org_name/intellectronics"
-"Bug Tracker" = "https://github.com/org_name/intellectronics/issues"
+"Homepage" = "https://github.com/intellectronics/intellectronics"
+"Bug Tracker" = "https://github.com/intellectronics/intellectronics/issues"
